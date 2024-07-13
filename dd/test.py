@@ -1,4 +1,5 @@
-
-str1 = input()
-num = int(input())
-print(str1[num-1])
+a= 'i'
+b= 'id'
+c = 'c'
+ab = [a,b,c]
+print(list(ab.sort()))
