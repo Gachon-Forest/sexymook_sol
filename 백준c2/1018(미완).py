@@ -7,4 +7,8 @@ for i in range(y):
     a= input()
     a = a.replace('\n','')
     cheseBord.append(a)
-print(cheseBord)
+
+
+
+
+
